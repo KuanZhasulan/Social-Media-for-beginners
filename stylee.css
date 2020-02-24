@@ -1,0 +1,52 @@
+#header{
+ height:80px;
+ width:100%;
+background-color:gray;
+border: 1px;
+border-color:#02d817;
+min-width: 50px; 
+color:#EEE;
+}
+#log{
+	right:50px;
+}
+body{
+	margin:0px;
+}
+#l{
+position: absolute;
+left:150px;
+top:2px;
+
+
+}
+#sign{
+position: absolute;
+top:30px;
+right: 20px;
+
+}
+#registration{
+
+width: 400px;
+height: 500px;
+position: absolute;
+right:40px;
+top:100px;
+padding: 10px;
+border: 1px solid red;
+
+}
+.inp{
+	border-radius: 3px;
+	height: 30px;
+}
+#left
+{
+position: absolute;
+left:100px;
+top:150px;
+
+} 
+
+

@@ -1,0 +1,127 @@
+<div class="container">
+  <div class="screen">
+    <div class="message__list">
+      <img class="bot__image" src="https://scontent.fpoa8-2.fna.fbcdn.net/v/t1.0-9/10906272_10152969399183470_1750972125169803056_n.jpg?oh=47f3d685f8089f4747c14f761c57581d&oe=59885E58">
+      <div class="message__item message__item--bot">
+        <span class="message message--bot">Ola</span>
+      </div>
+    </div>
+    <div class="message__list">
+      <div class="message__item message__item--user">
+        <span class="message message--user">Ola mundo!</span>
+      </div>
+      <div class="message__item message__item--user">
+        <span class="message message--user">Never ending circles</span>
+      </div>
+      <div class="message__item message__item--user">
+        <span class="message message--user">Lorem ipsum dolor sit amet consectetur adispicing elit lorem ipsum dolor sit amet</span>
+      </div>
+    </div>
+    <div class="message__list">
+      <img class="bot__image" src="https://scontent.fpoa8-2.fna.fbcdn.net/v/t1.0-9/10906272_10152969399183470_1750972125169803056_n.jpg?oh=47f3d685f8089f4747c14f761c57581d&oe=59885E58">
+      <div class="message__item message__item--bot">
+        <span class="message message--bot">Bot falando aqui</span>
+      </div>
+      <div class="message__item message__item--bot">
+        <span class="message message--bot">Parece que funcionou</span>
+      </div>
+    </div>
+    <div class="message__list">
+      <div class="message__item message__item--user">
+        <span class="message message--user">Ola mundo!</span>
+      </div>
+    </div>
+    <div class="message__list">
+      <img class="bot__image" src="https://scontent.fpoa8-2.fna.fbcdn.net/v/t1.0-9/10906272_10152969399183470_1750972125169803056_n.jpg?oh=47f3d685f8089f4747c14f761c57581d&oe=59885E58">
+      <div class="message__item message__item--bot">
+        <span class="message message--bot">Ola</span>
+      </div>
+    </div>
+    <div class="message__list">
+      <div class="message__item message__item--user">
+        <span class="message message--user">Ola mundo!</span>
+      </div>
+      <div class="message__item message__item--user">
+        <span class="message message--user">Never ending circles</span>
+      </div>
+      <div class="message__item message__item--user">
+        <span class="message message--user">Lorem ipsum dolor sit amet consectetur adispicing elit lorem ipsum dolor sit amet</span>
+      </div>
+    </div>
+    <div class="message__list">
+      <img class="bot__image" src="https://scontent.fpoa8-2.fna.fbcdn.net/v/t1.0-9/10906272_10152969399183470_1750972125169803056_n.jpg?oh=47f3d685f8089f4747c14f761c57581d&oe=59885E58">
+      <div class="message__item message__item--bot">
+        <span class="message message--bot">Bot falando aqui</span>
+      </div>
+      <div class="message__item message__item--bot">
+        <span class="message message--bot">Parece que funcionou</span>
+      </div>
+    </div>
+    <div class="message__list">
+      <div class="message__item message__item--user">
+        <span class="message message--user">Ola mundo!</span>
+      </div>
+    </div>
+    <div class="message__list">
+      <img class="bot__image" src="https://scontent.fpoa8-2.fna.fbcdn.net/v/t1.0-9/10906272_10152969399183470_1750972125169803056_n.jpg?oh=47f3d685f8089f4747c14f761c57581d&oe=59885E58">
+      <div class="message__item message__item--bot">
+        <span class="message message--bot">Ola</span>
+      </div>
+    </div>
+    <div class="message__list">
+      <div class="message__item message__item--user">
+        <span class="message message--user">Ola mundo!</span>
+      </div>
+      <div class="message__item message__item--user">
+        <span class="message message--user">Never ending circles</span>
+      </div>
+      <div class="message__item message__item--user">
+        <span class="message message--user">Lorem ipsum dolor sit amet consectetur adispicing elit lorem ipsum dolor sit amet</span>
+      </div>
+    </div>
+    <div class="message__list">
+      <img class="bot__image" src="https://scontent.fpoa8-2.fna.fbcdn.net/v/t1.0-9/10906272_10152969399183470_1750972125169803056_n.jpg?oh=47f3d685f8089f4747c14f761c57581d&oe=59885E58">
+      <div class="message__item message__item--bot">
+        <span class="message message--bot">Bot falando aqui</span>
+      </div>
+      <div class="message__item message__item--bot">
+        <span class="message message--bot">Parece que funcionou</span>
+      </div>
+    </div>
+    <div class="message__list">
+      <div class="message__item message__item--user">
+        <span class="message message--user">Ola mundo!</span>
+      </div>
+    </div>
+    <div class="message__list">
+      <img class="bot__image" src="https://scontent.fpoa8-2.fna.fbcdn.net/v/t1.0-9/10906272_10152969399183470_1750972125169803056_n.jpg?oh=47f3d685f8089f4747c14f761c57581d&oe=59885E58">
+      <div class="message__item message__item--bot">
+        <span class="message message--bot">Ola</span>
+      </div>
+    </div>
+    <div class="message__list">
+      <div class="message__item message__item--user">
+        <span class="message message--user">Ola mundo!</span>
+      </div>
+      <div class="message__item message__item--user">
+        <span class="message message--user">Never ending circles</span>
+      </div>
+      <div class="message__item message__item--user">
+        <span class="message message--user">Lorem ipsum dolor sit amet consectetur adispicing elit lorem ipsum dolor sit amet</span>
+      </div>
+    </div>
+    <div class="message__list">
+      <img class="bot__image" src="https://scontent.fpoa8-2.fna.fbcdn.net/v/t1.0-9/10906272_10152969399183470_1750972125169803056_n.jpg?oh=47f3d685f8089f4747c14f761c57581d&oe=59885E58">
+      <div class="message__item message__item--bot">
+        <span class="message message--bot">Bot falando aqui</span>
+      </div>
+      <div class="message__item message__item--bot">
+        <span class="message message--bot">Parece que funcionou</span>
+      </div>
+    </div>
+  </div>
+  <div class="answer">
+    <div class="answer__button">What are you most curious about on the web?</div>
+    <div class="answer__button">Enough, take me out of here</div>
+  </div>
+</div>
